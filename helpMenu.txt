@@ -1,0 +1,9 @@
+EraseRacism is a quiz game
+- As like all other quiz you will be asked to answer few questions
+  this questions will challenge your understanding of race.
+- In order to pass the quiz you have answer every quesion correectly.
+- If you even have a wrong answer you will be failed.
+- If you come back to main window before answering all questions
+  you won't get any result & have to restart again
+- Correct answer will be shown to you after you submit each quesion
+  please use the link with Correct answers to learn more about that topic

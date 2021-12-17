@@ -1,0 +1,11 @@
+EraseRacism is a game created for
+
+BMCC CSC 211H course honors project
+created by: Ubaydul H Sami
+Instructor: Dr. Azhar
+
+Resources used for the Quiz are:
+- Racial Microaggressions in Everyday Life: Implications for Clinical Practice.
+American Psychologist, 62, 4, 271-286
+- https://www.youtube.com/watch?v=D477W312NHo
+- https://sph.umn.edu/site/docs/hewg/microaggressions.pdf

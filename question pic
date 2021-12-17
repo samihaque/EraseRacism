@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/questionimage">
+        <file>img/homeless-african-american-man.jpg</file>
+        <file>img/Chienese streamer.png</file>
+        <file>img/referenceQuestion1.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/qimage">
+        <file>img/homeless-african-american-man.jpg</file>
+        <file>img/indian asian man.jpg</file>
+        <file>img/referenceQuestion1.png</file>
+        <file>img/Chienese streamer.png</file>
+        <file>img/Screen Shot 2021-12-16 at 4.27.56 PM.png</file>
+        <file>img/blackSuccessfulMan.webp</file>
+        <file>img/question4ref.png</file>
+        <file>img/african-poor-man-street-passing-car-asks-money-food-island-zanzibar-tanzania-east-africa-close-up-december-183606496.jpg</file>
+        <file>img/question6ref.png</file>
+        <file>img/latinogirl.jpg</file>
+        <file>img/question5ref.png</file>
+        <file>img/indiandoctor.jpg</file>
+        <file>img/question7ref.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/referenceQuestion1.png</file>
+        <file>img/Screen Shot 2021-12-16 at 4.27.56 PM.png</file>
+    </qresource>
+</RCC>

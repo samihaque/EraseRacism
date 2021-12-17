@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/menutxtfiles">
+        <file>objectives.txt</file>
+        <file>rules.txt</file>
+        <file>about.txt</file>
+        <file>helpMenu.txt</file>
+        <file>quitGame.txt</file>
+    </qresource>
+</RCC>

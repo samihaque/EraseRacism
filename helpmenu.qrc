@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>helpMenu.txt</file>
+    </qresource>
+</RCC>

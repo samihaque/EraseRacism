@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/BG_img">
+        <file>img/mainMenuBG.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../Desktop/Screen Shot 2021-12-14 at 2.02.33 PM.png</file>
+    </qresource>
+</RCC>
