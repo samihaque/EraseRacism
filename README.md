@@ -43,7 +43,7 @@ Link of the tutorial: https://youtu.be/EkjaiDsiM-Q
 
 - ## Future Direction
 
-Going forward I wolud like to update my game where a player will move around a city and will meet random people from different races in random racial situation, and based on his reaction on the situation player will earn or lose points
+Going forward I would like to update my game where a player will move around a city and will meet random people from different races in random racial situation, and based on his reaction on the situation player will earn or lose points
 
 - ## Website Link
 https://sites.google.com/view/ubaydulsami-csc211h-project/home
