@@ -14,6 +14,8 @@ Since it is a quiz game I have set a list of questions that will be asked to the
 
 This game can be useful for learning how to distinguish between racial and non-racial approaches. By playing this game one can become familiar with common intentional and unintentional racism, players can also realize if they are doing or facing racism in their everyday life. In my game after every question, a link to the source of the question is been given so that the player can learn more about racism.
 
+**YouTube video Link:** https://youtu.be/ybSOnGtsIQ0
+
 **Resources: **  
 I have used two racial Psychology-related articles to select questions for my game. They are:
 1) The scholarly article called “Racial Microaggressions in Everyday Life: Implications for Clinical Practice. American Psychologist, 62, 4, 271-286” by Derald Wing Sue 
